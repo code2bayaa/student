@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Procfile" type="EditorConfig" />
+      <mapping pattern="Manu" type="JAVA" />
+      <mapping pattern="shap" type="JAVA" />
+      <mapping pattern="Shapes" type="JAVA" />
+      <mapping pattern="ServerConn" type="JavaScript" />
+      <mapping pattern=".lock" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="Watch Sex Education - Season 2 Ep 1" type="PLAIN_TEXT" />
+      <mapping ext="mai" type="PLAIN_TEXT" />
+      <mapping ext="mad" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
